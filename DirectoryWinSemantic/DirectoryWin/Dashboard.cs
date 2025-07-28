@@ -103,7 +103,7 @@ namespace DirectoryWin
                 foreach (var line in lines)
                 {
                     var parts = line.Split("|||");
-                    if (parts.Length == 2)
+                    if (parts.Length == 3)
                     {
                         lstResults.Items.Add($"{parts[0]} (score: {double.Parse(parts[1]):0.00})");
                     }
