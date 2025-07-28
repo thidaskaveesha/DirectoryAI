@@ -36,6 +36,7 @@ namespace DirectoryWin
             {
                 selectedFolder = dialog.SelectedPath;
                 lblFolderPath.Text = selectedFolder;
+                lblTargetLocationSelct.Visible = true;
             }
         }
 

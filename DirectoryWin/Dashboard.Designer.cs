@@ -34,7 +34,7 @@
             lstResults = new ListBox();
             txtKeyword = new TextBox();
             lblTextBox = new Label();
-            label1 = new Label();
+            lblTargetLocationSelct = new Label();
             label2 = new Label();
             SuspendLayout();
             // 
@@ -91,15 +91,16 @@
             lblTextBox.TabIndex = 5;
             lblTextBox.Text = "Target Name :";
             // 
-            // label1
+            // lblTargetLocationSelct
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            label1.Location = new Point(20, 121);
-            label1.Name = "label1";
-            label1.Size = new Size(99, 15);
-            label1.TabIndex = 6;
-            label1.Text = "Target Location :";
+            lblTargetLocationSelct.AutoSize = true;
+            lblTargetLocationSelct.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            lblTargetLocationSelct.Location = new Point(20, 121);
+            lblTargetLocationSelct.Name = "lblTargetLocationSelct";
+            lblTargetLocationSelct.Size = new Size(99, 15);
+            lblTargetLocationSelct.TabIndex = 6;
+            lblTargetLocationSelct.Text = "Target Location :";
+            lblTargetLocationSelct.Visible = false;
             // 
             // label2
             // 
@@ -117,7 +118,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(lblTargetLocationSelct);
             Controls.Add(lblTextBox);
             Controls.Add(txtKeyword);
             Controls.Add(lstResults);
@@ -138,7 +139,7 @@
         private ListBox lstResults;
         private TextBox txtKeyword;
         private Label lblTextBox;
-        private Label label1;
+        private Label lblTargetLocationSelct;
         private Label label2;
     }
 }
