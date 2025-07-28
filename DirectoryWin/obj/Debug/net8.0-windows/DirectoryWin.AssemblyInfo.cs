@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirectoryWin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4078ff44f5a84dba200c26289ee52a72d403c33a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f9e0b44c38456054bf5a94b6db548aac37eaf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirectoryWin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirectoryWin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

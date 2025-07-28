@@ -8,11 +8,11 @@ using UglyToad.PdfPig.Content;
 
 namespace DirectoryWin
 {
-    public partial class Form1 : Form
+    public partial class Dashboard : Form
     {
         private string selectedFolder = "";
 
-        public Form1()
+        public Dashboard()
         {
             InitializeComponent();
 

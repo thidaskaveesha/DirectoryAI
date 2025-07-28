@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\",
+  "WorkspaceRootPath": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|c:\\users\\designer thidaz\\desktop\\project\\directoryai\\directorywin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|c:\\users\\thidass\\desktop\\ai project\\directoryai\\directorywin\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|c:\\users\\designer thidaz\\desktop\\project\\directoryai\\directorywin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|c:\\users\\thidass\\desktop\\ai project\\directoryai\\directorywin\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|c:\\users\\designer thidaz\\desktop\\project\\directoryai\\directorywin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|c:\\users\\thidass\\desktop\\ai project\\directoryai\\directorywin\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8764AE70-730E-49E7-9B5D-6C6762034111}|DirectoryWin.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwGkAAAAAAAAAAAAAAA==",
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T13:09:05.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBAAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T12:57:49.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T12:23:34.901Z",
               "EditorCaption": " [Design]"

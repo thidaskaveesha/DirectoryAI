@@ -1,15 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "DxOjANT00R8=",
+  "dgSpecHash": "VmH/rx81Ccs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Designer Thidaz\\Desktop\\project\\DirectoryAI\\DirectoryWin\\DirectoryWin.csproj",
+  "projectFilePath": "C:\\Users\\thidass\\Desktop\\AI Project\\DirectoryAI\\DirectoryWin\\DirectoryWin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Designer Thidaz\\.nuget\\packages\\docx\\4.0.25105.5786\\docx.4.0.25105.5786.nupkg.sha512",
-    "C:\\Users\\Designer Thidaz\\.nuget\\packages\\pdfpig\\0.1.11\\pdfpig.0.1.11.nupkg.sha512",
-    "C:\\Users\\Designer Thidaz\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
-    "C:\\Users\\Designer Thidaz\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
-    "C:\\Users\\Designer Thidaz\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
-    "C:\\Users\\Designer Thidaz\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+    "C:\\Users\\thidass\\.nuget\\packages\\docx\\4.0.25105.5786\\docx.4.0.25105.5786.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\google.protobuf\\3.27.1\\google.protobuf.3.27.1.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\microsoft.ml\\4.0.2\\microsoft.ml.4.0.2.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\microsoft.ml.cpumath\\4.0.2\\microsoft.ml.cpumath.4.0.2.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\microsoft.ml.dataview\\4.0.2\\microsoft.ml.dataview.4.0.2.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.18.1\\microsoft.ml.onnxruntime.managed.1.18.1.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\microsoft.ml.onnxtransformer\\4.0.2\\microsoft.ml.onnxtransformer.4.0.2.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\pdfpig\\0.1.11\\pdfpig.0.1.11.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\thidass\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
